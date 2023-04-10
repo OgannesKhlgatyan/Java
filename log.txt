@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-09T15:00:41.954698900Z</date>
+  <millis>1681052441954</millis>
+  <nanos>698900</nanos>
+  <sequence>0</sequence>
+  <level>WARNING</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>\b\b\btext.txt (Системе не удается найти указанный путь)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-09T15:00:53.952780500Z</date>
+  <millis>1681052453952</millis>
+  <nanos>780500</nanos>
+  <sequence>0</sequence>
+  <level>WARNING</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>\b\b\btext.txt (Системе не удается найти указанный путь)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-09T15:02:07.636068200Z</date>
+  <millis>1681052527636</millis>
+  <nanos>68200</nanos>
+  <sequence>0</sequence>
+  <level>WARNING</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>\b\b\btext.txt (Системе не удается найти указанный путь)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-09T15:02:31.800429600Z</date>
+  <millis>1681052551800</millis>
+  <nanos>429600</nanos>
+  <sequence>0</sequence>
+  <level>WARNING</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>\b\b\btext.txt (Системе не удается найти указанный путь)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-09T15:03:05.898063Z</date>
+  <millis>1681052585898</millis>
+  <nanos>63000</nanos>
+  <sequence>0</sequence>
+  <level>WARNING</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>\b\b\btext.txt (Системе не удается найти указанный путь)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-09T15:03:52.117266500Z</date>
+  <millis>1681052632117</millis>
+  <nanos>266500</nanos>
+  <sequence>0</sequence>
+  <level>WARNING</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>\b\b\btext.txt (Системе не удается найти указанный путь)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-09T15:04:24.729750600Z</date>
+  <millis>1681052664729</millis>
+  <nanos>750600</nanos>
+  <sequence>0</sequence>
+  <level>WARNING</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>\b\b\btext.txt (Системе не удается найти указанный путь)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-09T15:05:16.736321500Z</date>
+  <millis>1681052716736</millis>
+  <nanos>321500</nanos>
+  <sequence>0</sequence>
+  <level>WARNING</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>\b\b\btext.txt (Системе не удается найти указанный путь)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-09T15:07:26.521600500Z</date>
+  <millis>1681052846521</millis>
+  <nanos>600500</nanos>
+  <sequence>0</sequence>
+  <level>WARNING</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>\b\b\btext.txt (Системе не удается найти указанный путь)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-09T15:08:20.607162400Z</date>
+  <millis>1681052900607</millis>
+  <nanos>162400</nanos>
+  <sequence>0</sequence>
+  <level>WARNING</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>\b\b\btext.txt (Системе не удается найти указанный путь)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-09T15:25:43.640496800Z</date>
+  <millis>1681053943640</millis>
+  <nanos>496800</nanos>
+  <sequence>0</sequence>
+  <level>WARNING</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>\b\b\btext.txt (Системе не удается найти указанный путь)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-09T15:27:37.367339Z</date>
+  <millis>1681054057367</millis>
+  <nanos>339000</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>Запись успешно создана</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-09T15:29:26.257531400Z</date>
+  <millis>1681054166257</millis>
+  <nanos>531400</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>Запись успешно создана</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-09T15:29:38.638004300Z</date>
+  <millis>1681054178638</millis>
+  <nanos>4300</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>Запись успешно создана</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-09T15:29:42.643152Z</date>
+  <millis>1681054182643</millis>
+  <nanos>152000</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>Запись успешно создана</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-09T15:29:48.053785900Z</date>
+  <millis>1681054188053</millis>
+  <nanos>785900</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>Запись успешно создана</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-09T15:48:01.269192Z</date>
+  <millis>1681055281269</millis>
+  <nanos>192000</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>Запись успешно создана</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-09T15:50:04.309697600Z</date>
+  <millis>1681055404309</millis>
+  <nanos>697600</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>Запись успешно создана</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-09T15:51:12.859949200Z</date>
+  <millis>1681055472859</millis>
+  <nanos>949200</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>the record has already been created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-10T10:51:14.667890200Z</date>
+  <millis>1681123874667</millis>
+  <nanos>890200</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>the record has already been created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-10T10:51:56.253063500Z</date>
+  <millis>1681123916253</millis>
+  <nanos>63500</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>Запись уже создана</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-10T10:52:01.116864500Z</date>
+  <millis>1681123921116</millis>
+  <nanos>864500</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>the record has already been created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-10T18:14:48.929669300Z</date>
+  <millis>1681150488929</millis>
+  <nanos>669300</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem2</class>
+  <method>wrtite_to_file</method>
+  <thread>1</thread>
+  <message>the record has already been created</message>
+</record>
+</log>
