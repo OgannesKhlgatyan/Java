@@ -1,17 +1,26 @@
+import java.util.logging.FileHandler;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import java.util.logging.SimpleFormatter;
 
 public class hw2sen {
-    public static void main(String[] args) throws Exception{
+    public static void main(String[] args) throws Exception {
+        
         String [] arrayData =  lib.ReadLineFromFile("json_info.txt");
         for(int i = 0; i < arrayData.length; i++) {
-            System.out.println(Parser_json_string(arrayData[i]));
-        }
-       
+            System.out.println(PrintLine(arrayData[i]));
+        }    
+        Logger logger = Logger.getLogger(hw2sen.class.getName());
+        FileHandler fh = new FileHandler("hw2logs.txt");
+        logger.addHandler(fh);
+
+        SimpleFormatter sf = new SimpleFormatter();
+        fh.setFormatter(sf);
+
+        logger.log(Level.INFO, "Записали лог об успешном выполнении программы.");
     }
-    static StringBuilder Parser_json_string(String line){
-        // Дана json строка { { "фамилия":"Иванов","оценка":"5","предмет":"Математика"},{"фамилия":"Петрова","оценка":"4","предмет":"Информатика"},
-        // {"фамилия":"Краснов","оценка":"5","предмет":"Физика"}} Задача написать метод(ы), который распарсить строку и выдаст ответ вида:
-        //  Студент Иванов получил 5 по предмету Математика. Студент Петрова получил 4 по предмету Информатика.
-        // Студент Краснов получил 5 по предмету Физика. Используйте StringBuilder для подготовки ответа
+
+    public static StringBuilder PrintLine(String line) {
         String line1 = line.replace("{", "");
         String line2 = line1.replace("}", "");
         String line3 = line2.replaceAll("\"", "");
